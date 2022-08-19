@@ -7,5 +7,4 @@ var ay = new Date().getMonth();
 var yil = new Date().getFullYear();
 
 var yas = yil-dogum_yil;
-
 document.writeln(yas);
